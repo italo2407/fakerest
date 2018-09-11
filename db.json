@@ -1,12 +1,12 @@
 {
 	"employee":[
 		{
-			"id":1
+			"id":1,
 			"name":"Italo",
 			"lastName":"Barboza"
 		},
 		{
-			"id":2
+			"id":2,
 			"name":"Manuel",
 			"lastName":"Barreto"
 			
