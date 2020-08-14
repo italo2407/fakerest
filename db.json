@@ -3,13 +3,26 @@
 		{
 			"id":1,
 			"name":"Italo",
-			"lastName":"Barboza"
+			"lastName":"Barboza",
+			"area":"Engineering"
 		},
 		{
 			"id":2,
-			"name":"Manuel",
-			"lastName":"Barreto"
-			
+			"name":"Harold",
+			"lastName":"Pajuelo",
+			"area":"Engineering"
+		},
+		{
+			"id":3,
+			"name": "Pamela",
+			"lastName":"Uribe",
+			"area":"QA"
+		},
+		{
+			"id":4,
+			"name": "Cheyenne",
+			"lastName":"Pitts",
+			"area":"QA"
 		}
 	]
 	
