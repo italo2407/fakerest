@@ -2,27 +2,23 @@
 	"employee":[
 		{
 			"id":1,
-			"name":"Italo",
-			"lastName":"Barboza",
-			"area":"Engineering"
+			"fullName":"Italo Barboza",
+			"department":"Engineering"
 		},
 		{
 			"id":2,
-			"name":"Harold",
-			"lastName":"Pajuelo",
-			"area":"Engineering"
+			"fullName":"Harold Pajuelo",
+			"department":"Engineering"
 		},
 		{
 			"id":3,
-			"name": "Pamela",
-			"lastName":"Uribe",
-			"area":"QA"
+			"fullName":"Pamela Uribe",
+			"department":"Quality Assurance"
 		},
 		{
 			"id":4,
-			"name": "Cheyenne",
-			"lastName":"Pitts",
-			"area":"QA"
+			"fullName":"Cheyenne Pitts",
+			"department":"Quality Assurance"
 		}
 	]
 	
