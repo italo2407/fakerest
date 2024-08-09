@@ -21,6 +21,9 @@
 			"department":"Quality Assurance"
 		}
 	],
+	"read": {
+		"test":"test"
+	},
 	"conversations": {
 	    "status": "success",
 	    "statusCode": 201,
