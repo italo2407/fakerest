@@ -20,7 +20,7 @@
 			"fullName":"Cheyenne Pitts",
 			"department":"Quality Assurance"
 		}
-	]
+	],
 	"v1/conversations": {
 	    "status": "success",
 	    "statusCode": 201,
