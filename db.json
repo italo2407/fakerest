@@ -24,6 +24,22 @@
 	"read": {
 		"test":"test"
 	},
+	"v1/conversations": {
+	    "status": "success",
+	    "statusCode": 201,
+	    "message": "Created",
+	    "data": {
+		"id": "915127f8-ef0c-4864-9ed3-2491c48eca9a",
+		"user": {
+		    "id": 1
+		},
+		"channel": "APP",
+		"status": "OPEN",
+		"createdAt": "2024-08-08T15:31:34.447Z"
+	    },
+	    "timestamp": 1723131094,
+	    "path": "/v1/conversations"
+	},
 	"conversations": {
 	    "status": "success",
 	    "statusCode": 201,
