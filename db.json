@@ -21,7 +21,7 @@
 			"department":"Quality Assurance"
 		}
 	],
-	"v1/conversations": {
+	"conversations": {
 	    "status": "success",
 	    "statusCode": 201,
 	    "message": "Created",
