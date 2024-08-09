@@ -21,24 +21,22 @@
 			"department":"Quality Assurance"
 		}
 	],
-	"read": {
-		"test":"test"
-	},
-	"v1/conversations": {
+	"messages": {
 	    "status": "success",
 	    "statusCode": 201,
 	    "message": "Created",
 	    "data": {
-		"id": "915127f8-ef0c-4864-9ed3-2491c48eca9a",
-		"user": {
-		    "id": 1
-		},
-		"channel": "APP",
-		"status": "OPEN",
-		"createdAt": "2024-08-08T15:31:34.447Z"
+		"id": "63c92ab7-3cc4-4930-b1df-e2fb5d66ca38",
+		"type": "ASSISTANT",
+		"message": "Para bloquear tu tarjeta en la aplicación de RappiBank, sigue estos pasos:\n\nRequisitos:\n- Tener la aplicación de RappiBank instalada en tu dispositivo móvil.\n- Contar con acceso a tu cuenta y tarjeta dentro de la app.\n\nPasos:\n1. Ingresa a la pantalla de inicio de RappiBank.\n2. Accede a la sección de tarjeta, dando clic al ícono de tarjeta en la barra inferior de la pantalla.\n3. Haz clic en \"Congelar\".\n\nUna vez realizado este proceso, tu tarjeta quedará bloqueada y no podrá ser utilizada. Recuerda que también puedes descongelarla en cualquier momento siguiendo los mismos pasos. Si tienes alguna duda o consulta adicional, te recomendamos contactarte con un asesor de RappiBank. ¡Gracias!",
+		"createdAt": "2024-08-08T15:32:16.720Z"
 	    },
-	    "timestamp": 1723131094,
-	    "path": "/v1/conversations"
+	    "timestamp": 1723131136,
+	    "path": "/v1/conversations/915127f8-ef0c-4864-9ed3-2491c48eca9a/messages"
+	},
+	"feedback": {
+		"score": 1,
+    		"comments": null
 	},
 	"conversations": {
 	    "status": "success",
