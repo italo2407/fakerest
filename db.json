@@ -98,18 +98,18 @@
 		"next": 2
 	    },
 	    "data": [
-	       {
-		"id": "e9d2690c-c7dc-477c-b682-970b20efe5f8",
-		"type": "USER",
-		"message": "Como puedo consultar mi estado de cuenta?",
-		"createdAt": "2024-08-14T00:03:45.873Z"
-	    }
-	       {
-		"id": "e9d2690c-c7dc-477c-b682-970b20efe5f7",
-		"type": "ASSISTANT",
-		"message": "Para poder ver tu Estado de Cuenta en RappiBank, sigue estos pasos:\n\n1. Ingresa a RappiBank.\n2. Selecciona el icono de la tarjeta.\n3. Escoge la opción \"Estado de Cuenta\".\n4. Selecciona el periodo que deseas revisar tus consumos.\n\nRecuerda que el archivo con tu estado de cuenta será descargado en tu dispositivo y podrás acceder a él con tu identificación.",
-		"createdAt": "2024-08-14T00:03:45.873Z"
-	    }
+		       {
+			"id": "e9d2690c-c7dc-477c-b682-970b20efe5f8",
+			"type": "USER",
+			"message": "Como puedo consultar mi estado de cuenta?",
+			"createdAt": "2024-08-14T00:03:45.873Z"
+		    },
+		       {
+			"id": "e9d2690c-c7dc-477c-b682-970b20efe5f7",
+			"type": "ASSISTANT",
+			"message": "Para poder ver tu Estado de Cuenta en RappiBank, sigue estos pasos:\n\n1. Ingresa a RappiBank.\n2. Selecciona el icono de la tarjeta.\n3. Escoge la opción \"Estado de Cuenta\".\n4. Selecciona el periodo que deseas revisar tus consumos.\n\nRecuerda que el archivo con tu estado de cuenta será descargado en tu dispositivo y podrás acceder a él con tu identificación.",
+			"createdAt": "2024-08-14T00:03:45.873Z"
+		    }
 	    ],
 	    "timestamp": 1723750633,
 	    "path": "/v1/conversations/123456/messages?offset=1&limit=30"
