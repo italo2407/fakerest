@@ -53,5 +53,36 @@
 	    },
 	    "timestamp": 1723131094,
 	    "path": "/v1/conversations"
+	},
+	"users-conversation": {
+	    "status": "success",
+	    "statusCode": 200,
+	    "message": "OK",
+	    "meta": {
+	        "total": 122,
+	        "lastPage": 5,
+	        "currentPage": 1,
+	        "perPage": 30,
+	        "prev": null,
+	        "next": 2
+	    },
+	    "data": [
+	       {
+			"id": "a9d7ee7c-e910-456c-81d5-b3be1c278b52",
+	        "title": "first message",
+	        "channel": "APP",
+	        "status": "OPEN",
+	        "createdAt": "2024-08-14T00:02:48.953Z"
+		  },
+	       {
+			"id": "a9d7ee7c-e910-456c-81d5-b3be1c278b33",
+	        "title": "second message",
+	        "channel": "APP",
+	        "status": "OPEN",
+	        "createdAt": "2024-08-14T00:02:48.953Z"
+		  }
+	    ],
+	    "timestamp": 1723750633,
+	    "path": "/v1/user/1234578/conversations?offset=1&limit=30"
 	}
 }
